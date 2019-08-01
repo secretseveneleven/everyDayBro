@@ -134,3 +134,4 @@ ehllo
 ehllo
 ehllo
 ehllo
+key: AKIAIOSFODNN7EXAMPLE
