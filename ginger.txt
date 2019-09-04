@@ -12014,4 +12014,5 @@ key: AKIAIOSFODNN7EXAMPLE // ignoreLineGitseer
 key: AKIAIOSFODNN7EXAMPLE
 key: AKIAIOSFODNN7EXAMPLE // ignoreLineGitseer
 Hello there
-no secrets
+no secretskey: AKIAIOSFODNN7EXAMPLE
+key: AKIAIOSFODNN7EXAMPLE // ignoreLineGitseer
