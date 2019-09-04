@@ -1,5 +1,5 @@
 #!/bin/sh
-for ((i=0; i < 5000; i++))
+for ((i=0; i < 4000; i++))
     do
         echo key: AKIAIOSFODNN7EXAMPLE >> look_here_gingee.txt
     done 
