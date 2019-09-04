@@ -1,16 +1,16 @@
 #!/bin/sh
-for i in {1...1000}
+for ((i=0; i < 1000; i++))
     do
-        echo key: AKIAIOSFODNN7EXAMPLE >> ginger.txt 
+        echo key: AKIAIOSFODNN7EXAMPLE > look_here_gingee.txt
     done  
-for i in {1...1000}
+for ((i=0; i < 1000; i++))
     do
-        echo key: AKIAIOSFODNN7EXAMPLE >> look_here_gingee.txt
+        echo key: AKIAIOSFODNN7EXAMPLE > look_here_gingee.txt
     done  
-for i in {1...1000}
+for ((i=0; i < 1000; i++))
     do
-        echo key: AKIAIOSFODNN7EXAMPLE >> another_ginger.txt
+        echo key: AKIAIOSFODNN7EXAMPLE > another_ginger.txt
     done  
 git add .
-git commit -m "Test: 3000 line additions"
+git commit -m "Test: Comment feature"
 git push
