@@ -1,7 +1,7 @@
 #!/bin/sh
-for ((j=0; j < 5; j++))
+for ((j=0; j < 50; j++))
     do
-        for ((i=0; i < 100; i++))
+        for ((i=0; i < 1000; i++))
             do
                 echo key: AKIAIOSFODNN7EXAMPLE >> look_here_gingee.txt
                 # echo 'Added line'
